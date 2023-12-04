@@ -8,4 +8,5 @@ The rice seed type dataset which is used in this project is taken from Kaggle. T
 - Roundness: the ratio of the area of rice grain to the area of rice grain with a maximum diameter
 - Aspect Ratio: the ratio of width to height
 - Class: 1 means “Jasmine” and 0 means “Gonen” rice variety
-- All of these parameters were real-valued continuous.
+
+All of these parameters were real-valued continuous.
